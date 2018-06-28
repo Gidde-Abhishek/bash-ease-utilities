@@ -3,7 +3,7 @@ just a fun side project.
 
 ## Getting Started
 
-1. [cpp-ease.sh](scripts/cpp-ease.sh):
+1. [cpp-ease.sh](cpp-ease.sh):
 > This script uses the gcc compiler to comiple, create object file and execute it with just one single command.
 > No need to use three different commands for compiling, running and executing.
 ## USAGE
