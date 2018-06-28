@@ -8,7 +8,6 @@ just a fun side project.
 > No need to use three different commands for compiling, running and executing.
 ## USAGE
 ```bash
-cd scripts
 chmod 777 cpp-ease.sh
 ./cpp-ease.sh [File-name]
 ```
