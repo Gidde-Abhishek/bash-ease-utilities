@@ -9,7 +9,7 @@ just a fun side project.
 ## USAGE
 ```bash
 cd scripts
-chmod +X cpp-ease.sh
+chmod 777 cpp-ease.sh
 ./cpp-ease.sh [File-name]
 ```
 ## NOTE :
